@@ -1,7 +1,5 @@
 package rubricaborrosa;
-/**
- * @author GrupoPI 
- */
+
 public class FuncionPertenencia
 {
     private String etiqueta, gradosPertenencia;
